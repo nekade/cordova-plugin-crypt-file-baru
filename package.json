@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-crypto-file",
+  "name": "cordova-plugin-crypt-file-baru",
   "version": "1.4.0",
   "description": "This plugin to encrypt/decrypt the source files.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeterHdd/cordova-plugin-crypto-file.git"
+    "url": "git+https://github.com/nekade/cordova-plugin-crypt-file-baru.git"
   },
   "keywords": [
     "ecosystem:cordova",
